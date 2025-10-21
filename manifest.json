@@ -3,6 +3,7 @@
   "name": "Medium to Freedium Redirect",
   "version": "1.0",
   "description": "Automatically redirects Medium pages to freedium.cfd for easier reading.",
+  "homepage_url": "https://github.com/deepen-404/medium-to-freedium-extension",
   "action": {
     "default_title": "Medium Redirect"
   },
