@@ -14,10 +14,26 @@ A simple Chrome extension that automatically redirects any **Medium** article to
 
 ## 🧩 Installation (Manual)
 
-1. Clone or download this repository:
+1. **Download or clone the repository**:
 
-   ```bash
-   git clone https://github.com/deepen-404/medium-to-freedium-extension.git
+   - **Option 1: Download as ZIP**  
+     Click the green **Code** button on this repository page, then select **Download ZIP**.  
+     Extract the ZIP file to a folder on your computer.
+
+   - **Option 2: Clone using Git**  
+
+     ```bash
+     git clone https://github.com/deepen-404/medium-to-freedium-extension.git
+     ```
+     
+2. **Load the extension in Chrome**:
+
+   - Open Chrome and go to `chrome://extensions/`
+   - Enable **Developer mode** (toggle in top-right corner)
+   - Click **Load unpacked**
+   - Select the folder where you downloaded or cloned the extension
+
+The extension should now be active and automatically redirect Medium articles to Freedium.
 
 ---
 
